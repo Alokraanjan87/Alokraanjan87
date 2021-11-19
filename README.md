@@ -1,7 +1,7 @@
 - Hi, I’m @Alokraanjan87
 -I’m interested in data analysis
-- I’m currently learning sql
-- I’m looking to collaborate on SQL Projects
+-learning analytics
+- I’m looking to collaborate on analytics Projects
 - How to reach me ...
 Please email me on alokraanjan87@gmail.com
 
